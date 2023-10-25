@@ -1,26 +1,19 @@
 {
-    "database.hits": 36108,
+    "database.hits": 35664,
     "database.hits.duplicates.removed": 14369,
     "records.screened": 14369,
     "full.text.assessed.for.eligibility": 2138,
     "full.text.excluded.reasons": 
     {
-        "Not categorized as psychotherapy vs. control": XX, 
-        # this needs to be checked
-        "Companion papers": 573,
-        "Depression is not an inclusion criterion": 275,
-        "Dissertations": 19,
-        "Effect sizes cannot be estimated": 64,
-        "Maintenenance trial": 122,
-        "No control condition": 57,
-        "No psychotherapy for depression": 222,
-        "No random assignment": 50,
-        "Not available": 46,
-        "Other": 169,
-        "Other language": 19,
-        "Protocol paper": 206,
-        "Stepped care/management program": 27,
-        "Studies with adolescents": 43
+        "Not categorized as psychotherapy vs. control": 367, 
+        "Companion paper": 315,
+        "Ineligible population": 275,
+        "Ineligible intervention": 19,
+        "Ineligible comparison": 64,
+        "Ineligible outcome": 122,
+        "Ineligible study design": 216,
+        "Ineligible publication type": 331,
+        "Non-English language": 331,
     },
-    "included": 661
+    "included": 102
 }
