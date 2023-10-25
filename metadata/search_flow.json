@@ -1,10 +1,12 @@
 {
-    "database.hits": 21976,
-    "database.hits.duplicates.removed": 16701,
-    "records.screened": 16701,
-    "full.text.assessed.for.eligibility": 2553,
+    "database.hits": 36108,
+    "database.hits.duplicates.removed": 14369,
+    "records.screened": 14369,
+    "full.text.assessed.for.eligibility": 2138,
     "full.text.excluded.reasons": 
     {
+        "Not categorized as psychotherapy vs. control": XX, 
+        # this needs to be checked
         "Companion papers": 573,
         "Depression is not an inclusion criterion": 275,
         "Dissertations": 19,
