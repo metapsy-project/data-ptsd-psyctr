@@ -1,5 +1,6 @@
 {
     "database.hits": 35664,
+    "additional.records": 0,
     "database.hits.duplicates.removed": 14369,
     "records.screened": 14369,
     "full.text.assessed.for.eligibility": 2138,
@@ -13,7 +14,7 @@
         "Ineligible outcome": 122,
         "Ineligible study design": 216,
         "Ineligible publication type": 331,
-        "Non-English language": 331,
+        "Non-English language": 331
     },
     "included": 102
 }
